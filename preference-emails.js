@@ -286,8 +286,8 @@
     "defaultValue": {
       "SenderName": "",
       "SenderEmail": "",
-      "HeaderImageURL": " ",
-      "FooterImageURL": " ",
+      "HeaderImageURL": "",
+      "FooterImageURL": "",
       "SubjectHTML": "Treten Sie dem {$TalentNetworkName$} Talent Network bei.",
       "EmailHTML": "<!DOCTYPE HTML PUBLIC \\\"-//W3C//DTD HTML 4.0 Transitional//EN\\\"><html><body><table><tr><td style='width:598px; font-family: arial, sans-serif; font-size:11px;'><br />Sehr geehrter Arbeitssuchender,<br /><br />wie wir sehen konnten, haben Sie sich dafür interessiert {$TalentNetworkName$} beizutreten.<br /> <br />\nIn der Vergangenheit haben Sie sich für eine Stelle beworben und wir wollen sicher gehen, dass {$TalentNetworkName$} Sie nicht aus den Augen verliert.<br /> <br />Diese E-Mail dient dazu, dass Sie und {$TalentNetworkName$} Talent Network weiterhin im regen Austausch bleiben, so dass Sie weiterhin Arbeitsmöglichkeiten für sich nutzen können.\nIndem Sie den Link \"Regelmassig Jobangebote Erhalten\" anklicken, den wir Ihnen unten zur Verfügung gestellt haben und {$TalentNetworkName$} ein paar Updates zur Verfügung stellen, werden Sie E-Mails bekommen sobald eine verfügbare Stelle Ihren Vorgaben und Interessen entspricht. <br /><br />\nWir freuen uns auf einen regen Austausch im {$TalentNetworkName$} Talent Network und hoffen für Sie Ihnen Türen und Möglichkeiten für Ihre Zukunft zu öffnen.\n<br /><br />Vielen Dank,<br />{$TalentNetworkName$}<br /></td></tr></table></body></html>",
       "EmailText": "Sehr geehrter Arbeitssuchender, wie wir sehen konnten, haben Sie sich dafür interessiert {$TalentNetworkName$} beizutreten.\nIn der Vergangenheit haben Sie sich für eine Stelle beworben und wir wollen sicher gehen, dass {$TalentNetworkName$} Sie nicht aus den Augen verliert.\nDiese E-Mail dient dazu, dass Sie und {$TalentNetworkName$} Talent Network weiterhin im regen Austausch bleiben, so dass Sie weiterhin Arbeitsmöglichkeiten für sich nutzen können.\nIndem Sie den Link \"Regelmassig Jobangebote Erhalten\" anklicken, den wir Ihnen unten zur Verfügung gestellt haben und {$TalentNetworkName$} ein paar Updates zur Verfügung stellen, werden Sie E-Mails bekommen sobald eine verfügbare Stelle Ihren Vorgaben und Interessen entspricht. \nWir freuen uns auf einen regen Austausch im {$TalentNetworkName$} Talent Network und hoffen für Sie Ihnen Türen und Möglichkeiten für Ihre Zukunft zu öffnen.\nVielen Dank,\n\n{$TalentNetworkName$}",
@@ -721,8 +721,8 @@
     "defaultValue": {
       "SenderName": "talentnetwork@jobs.net",
       "SenderEmail": "talentnetwork@jobs.net",
-      "HeaderImageURL": " ",
-      "FooterImageURL": " ",
+      "HeaderImageURL": "",
+      "FooterImageURL": "",
       "SubjectHTML": "Join the {$TalentNetworkName$} Talent Network",
       "EmailHTML": "<!DOCTYPE HTML PUBLIC \\\"-//W3C//DTD HTML 4.0 Transitional//EN\\\"><html><body><table><tr><td style='width:598px; font-family: arial, sans-serif; font-size:11px;'><br />Dear {$CandidateName$},<br /><br />Thank you for your interest in joining the {$TalentNetworkName$}. While you hopefully completed an application for a position with us, we would also like to keep you updated with other similar positions in future.  <br /> <br />By opting to Join our network below you will receive emails from us when a position that matches your interest and is in your area becomes available.<br /><br />We look forward to sharing information on {$TalentNetworkName$} and future opportunities with you.<br /><br />Kind Regards,<br />{$TalentNetworkName$} Talent Network Team<br /></td></tr></table></body></html>",
       "EmailText": "Dear {$CandidateName$},\n\nThank you for your interest in joining the {$TalentNetworkName$}. While you hopefully completed an application for a position with us, we would also like to keep you updated with other similar positions in future.  \n\nBy opting to Join our network below you will receive emails from us when a position that matches your interest and is in your area becomes available.\n\nWe look forward to sharing information on {$TalentNetworkName$} and future opportunities with you.\n\nKind Regards,\n{$TalentNetworkName$} Talent Network Team",
@@ -1122,8 +1122,8 @@
     "defaultValue": {
       "SenderName": "talentnetwork@jobs.net",
       "SenderEmail": "talentnetwork@jobs.net",
-      "HeaderImageURL": " ",
-      "FooterImageURL": " ",
+      "HeaderImageURL": "",
+      "FooterImageURL": "",
       "SubjectHTML": "Gå med i  {$TalentNetworkName$} Talent Network",
       "EmailHTML": "<!DOCTYPE HTML PUBLIC \\\"-//W3C//DTD HTML 4.0 Transitional//EN\\\"><html><body><table><tr><td style='width:598px; font-family: arial, sans-serif; font-size:11px;'><br />Hej {CandidateName},<br /><br />Vad roligt att du är intresserad av våra lediga jobb! Vi hoppas att du har skickat in en ansökan till oss redan och vi skulle även gärna vilja hålla kontakten med dig framöver för att rekommendera liknande jobb.  <br /> <br />Om du blir medlem i vårt Talent Network så skickar vi ett mail till dig när nya, liknande jobb i ditt område dyker upp.<br /><br />Vi ser fram emot att få hålla dig informerad om {TalentNetworkName} och våra lediga jobb.<br /><br />Vänliga hälsningar,<br />{$TalentNetworkName$}<br /></td></tr></table></body></html>",
       "EmailText": "Hej {CandidateName},\n\nVad roligt att du är intresserad av våra lediga jobb! Vi hoppas att du har skickat in en ansökan till oss redan och vi skulle även gärna vilja hålla kontakten med dig framöver för att rekommendera liknande jobb. \n\nOm du blir medlem i vårt Talent Network så skickar vi ett mail till dig när nya, liknande jobb i ditt område dyker upp.\n\nVi ser fram emot att få hålla dig informerad om {TalentNetworkName} och våra lediga jobb.\n\nVänliga hälsningar,\n{$TalentNetworkName$}\n",
